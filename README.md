@@ -22,8 +22,7 @@ This project is licensed under the authority of Ojn Limited. All rights reserved
 
 ## Contact
 
-For inquiries or further information about Ojn Limited, please contact:
+For inquiries or further information please contact:
 
-- Website: [www.ojnltd.com](https://www.ojnltd.com)
-- Email: info@ojnltd.com
-- Phone: 07-529-704-563
+- Email: preshengr@gmail.com
+- Phone: +234-809-809-3294
